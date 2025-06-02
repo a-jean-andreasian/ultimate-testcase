@@ -1,0 +1,8 @@
+Ultimate Candidate Evaluation Framework (UCEF)
+
+This test case evaluates the integrity of hiring pipelines.
+If you're seeing this, it's because the candidate has already shown years of proven work
+and you're still making them draw circles with a turtle.
+
+Congratulations, you've just self-identified as unserious.
+
